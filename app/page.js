@@ -3,9 +3,6 @@ import Upload from "./comp/Upload";
 
 export default function Home() {
 
-  const ttestEnv = process.env.NODE_HOST
-  console.log(testEnv)
-
   return (
     <>
       <h1>MariaDB CRUD</h1>
